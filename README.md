@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
 <h3 align="center">A backend developer from India</h3>
 
+- 🌱 I’m currently learning **spring framework.**
+
 - 👨‍💻 All of my projects are available at [https://shashwat-awasthi.netlify.app/](https://shashwat-awasthi.netlify.app/)
+
+- 💬 Ask me about **java, spring, MySQL.**
 
 - 📫 How to reach me **awasthi.shashwat1995@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Lp8f-BJnuUgDmHjrNICNypo_3stE8hui/view](https://drive.google.com/file/d/1Lp8f-BJnuUgDmHjrNICNypo_3stE8hui/view)
 
+- ⚡ Fun fact **I did graduation in mechanical engineering.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashwat-awasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwat-awasthi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/awasthi_shashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awasthi_shashwat" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/awasthishashwat1995/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/awasthishashwat1995/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
